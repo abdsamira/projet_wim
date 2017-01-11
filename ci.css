@@ -1,0 +1,319 @@
+  					body {
+   margin: 0;
+   padding: 0;
+   background: lightgrey;
+ }
+    	.abidi {
+    margin-top: 0;
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffccff;
+    width: 270px;
+    height: 1531px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-top: 0px;
+			position:fixed;
+}
+      .abidi li a{
+        color:	grey;
+	        font-size:25px;
+				display:block;
+            padding: 18px;
+				text-decoration:none;
+      }
+
+			.lcl{
+				font-size:35px;
+				    padding-top:50px;
+    padding-left: 11px;
+				margin-left:267px;
+			}
+
+			.title{
+				text-align: center;
+margin-top: 0px;
+padding-top: 44px;
+margin-left: 275px;
+color: #000000;
+font-family: Times New Roman;
+padding-bottom: 5px;
+				font-size:50px;
+			}
+		
+			.bbc {
+				width:21%;
+				
+			}
+		.nessma{
+				    width: 23%;
+			}
+			.ask{
+				font-size:38px;
+			}
+			.wat{
+			  
+    width: 31%;
+			}
+			.mala{
+				font-size:18px;
+			}
+			.lct{
+				width:20%;
+			}
+			.luci{
+				width:29%;
+			}
+
+			.tct{
+				width:26%;
+			}
+				#logo{
+				width:64%;
+			}
+						.abc{
+			width: 18%;
+margin-bottom: 2px;
+			}
+						.cbc{
+		width: 21%;
+margin-bottom: 2px;
+			}
+			
+			#cava{
+				margin-left:300px;
+				font-variant: small-caps;
+				background-color: beige; 
+				border-style:ridge;
+				border-radius:5px;
+				margin-right:75px;
+				padding-left:25px;
+				margin-bottom:10px;
+
+			}
+
+
+.h2 {
+text-align:center;
+}
+    
+.hb{text-align:left}
+      #abdma{
+        margin-top:-35px;
+        margin-left:45px;
+        font-variant:none;
+      }
+
+#t{margin-left:300px;
+	margin-top:85px;
+			margin-right:150px}
+			.abd{
+				font-variant:small-caps;
+				margin-left:300px;
+	margin-top:85px;
+			}
+			
+			.maya{
+				margin-left: 300px;
+margin-right: 580px;
+font-size: 15px;
+font-variant: small-caps;
+text-align: justify;
+			}
+					.artic{
+		margin-left: 750px;
+margin-right: 51px;
+font-size: 15px;
+font-variant: small-caps;
+text-align: justify;
+
+					
+			}
+			#bla{
+				margin-left: 780px;
+width: 31%;
+margin-top: -210px;
+			}
+
+			.title{
+				text-align: center;
+margin-top: 0px;
+padding-top: 44px;
+margin-left: 275px;
+color: #000000;
+font-family: Times New Roman;
+padding-bottom: 5px;
+				font-size:50px;
+			}
+		
+	#test{
+margin-top: 50px;
+float: left;
+font-size: x-large;
+padding: 30px 30px;
+margin-left: 300px;
+border: solid;
+font-variant: small-caps;
+background-color: beige;
+margin-right: 75px;
+padding-left: 25px;
+border-style: ridge;
+border-radius: 5px;
+margin-bottom: 10px;
+}
+.i{
+width: 159px;
+height: 167px;
+				border-width:1px;
+							border-style:ridge;
+				border-radius:5px;
+			}
+
+			.tg{
+margin-left: 300px;
+cursor: default;
+list-style: none;
+display: block;
+width: 1008px;
+height: 500px;
+margin-top: 50px;
+margin-right: 20px;
+			}
+			
+			.book{
+margin-left: 300px;
+cursor: default;
+list-style: none;
+display: block;
+width: 1000px;
+height: 270px;
+margin-top: 615px;
+margin-right: 20px;
+			}
+			
+			.voyage{
+										margin-left:300px;
+	cursor: default;
+list-style: none;
+display: block;
+width: 1000px;
+height: 270px;
+		margin-top:550px;
+				margin-right:20px;
+			}
+			
+			.h2n{
+				margin-left:300px;
+			}
+	
+			td {
+padding: 5px;
+text-align: center;
+}
+			th{
+				border:solid;
+			}
+			.sam{
+				width:75%;
+				
+			}
+			#bis{
+		margin-left: 300px;
+width: 31%;
+margin-top: -363px;
+				margin-bottom:35px;
+			}
+
+
+
+			.maybe{
+				margin-left:300px;
+				margin-right:20px;
+			}
+		.ctc{
+				margin-left:500px;
+				font-variant: small-caps;
+				background-color: beige; 
+				margin-right:300px;
+				padding-left:5px;
+				border-style:ridge;
+				border-radius:5px;
+				margin-bottom:10px;
+				text-align:center;
+			}
+			.icon{
+				width:43%;
+			}
+			#dplc{
+				width:19%;
+			}
+			#mouji{
+				width:50%;
+			}
+			#td{
+				text-align:left;
+			}
+
+
+#oui{
+		width: 50%;
+padding-left: 70px;
+			}
+			#non{
+				width:60%;
+				padding-left:50px;
+			}
+
+#ta {
+    font-variant: small-caps;
+    background-color: beige;
+    margin-right: 0px;
+    padding-left: 0px;
+    border-style: ridge;
+    border-radius: 5px;
+    padding-right: 15px;
+    padding-bottom: 17px;
+    padding-top: 5px;
+    width: 20%;
+    margin-left: 984px;
+    margin-top: -346px;
+}
+.ba {
+    margin-left: 632px;
+    font-variant: small-caps;
+    background-color: beige;
+    padding-left: 24px;
+    border-style: ridge;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: -391px;
+    margin-right: 4px;
+    width: 20%;
+    padding-right: 52px;
+    padding-bottom: 14px;
+    padding-top: 10px;
+}
+			#alif{
+margin-left: 300px;
+font-variant: small-caps;
+background-color: beige;
+margin-right: 694px;
+padding-left: 25px;
+border-style: ridge;
+border-radius: 5px;
+margin-bottom: 5px;
+padding-right: 15px;
+padding-bottom: 17px;
+padding-top: 5px;
+			}
+
+.pro{
+			
+				font-variant: small-caps;
+				background-color: beige; 
+				border-style:ridge;
+				border-radius:5px;
+}
+			
